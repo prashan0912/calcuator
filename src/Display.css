@@ -1,0 +1,19 @@
+/* src/Display.css */
+.display {
+    margin-bottom: 20px;
+  }
+  
+  .input,
+  .result {
+    font-size: 24px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    text-align: right;
+  }
+  
+  .input {
+    margin-bottom: 10px;
+  }
+  
